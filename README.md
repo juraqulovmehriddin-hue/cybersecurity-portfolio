@@ -13,13 +13,9 @@ This repository contains my beginner Artificial Intelligence and Python projects
 
 - Python Programming
 - Problem Solving
-- Object-Oriented Programming (OOP)
-- NumPy (Learning)
-- Pandas (Learning)
-- Machine Learning Fundamentals (Learning)
 - Git & GitHub
 - TOPIK Level 5 (Korean)
-
+- English Level B1
 ## Projects
 
 ### Password Strength Checker
